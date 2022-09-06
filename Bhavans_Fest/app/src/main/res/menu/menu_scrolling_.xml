@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.bhavans_fest.Scrolling_Activity">
+
+
+    <item
+        android:id="@+id/loginadmin"
+        android:orderInCategory="100"
+        android:title="Maps"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/rate"
+        android:orderInCategory="100"
+        android:title="Rate Us"
+        app:showAsAction="never" />
+
+
+
+</menu>

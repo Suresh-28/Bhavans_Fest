@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56027716597",
+    "firebase_url": "https://bhavansfest-c1499.firebaseio.com",
+    "project_id": "bhavansfest-c1499",
+    "storage_bucket": "bhavansfest-c1499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56027716597:android:34528a0fabb31444401ebc",
+        "android_client_info": {
+          "package_name": "com.example.bhavans_fest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56027716597-4aho4cpic8iddaq5jthaeonvka5i2dm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhavans_fest",
+            "certificate_hash": "5394fba62ba97aa9d1bbd66aeee06bedb7111258"
+          }
+        },
+        {
+          "client_id": "56027716597-tfg4257cfh1p3ahbmrn1ns0e1jhtd641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI4rQkpRr8iE3W1siJBLnFnhXChhlRNAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56027716597-tfg4257cfh1p3ahbmrn1ns0e1jhtd641.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
